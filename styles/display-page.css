@@ -1,0 +1,42 @@
+/*r1b1 r1b2 r2b1 r2b2 r2b3*/
+
+body {
+	font-size: 0;
+	text-align: center;
+}
+
+.top, .bottom {
+	display: inline-block;
+}
+
+.top {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.bottom {
+	width: 266.66px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+.r1b1 {
+	background-color: green;
+}
+
+.r1b2 {
+	background-color: blue;
+}
+
+.r2b1 {
+	background-color: grey;
+}
+
+.r2b2 {
+	background-color: black;
+}
+
+.r2b3 {
+	background-color: orange;
+}
