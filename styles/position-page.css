@@ -38,10 +38,15 @@ nav {
 	height: 300px;
 	width: 600px;
 	border: 10px green dotted;
+	top: 200px;
 }
 
 .cat {
+	left: -100px;
+	top: -100px;
 }
 
 .dog {
+	bottom: -100px;
+	right: -100px;
 }
